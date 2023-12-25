@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+ajay
+venv
 # testing
 /coverage
 
